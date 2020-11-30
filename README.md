@@ -1,2 +1,2 @@
-# p-gase
+# pégase
 In work ... 
